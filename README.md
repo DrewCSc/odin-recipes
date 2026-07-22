@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project im doing on Theodinproject.com and im learning how to create a website that contains a few links to recipes. I will later make everything look better with CSS.
